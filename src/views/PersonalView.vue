@@ -8,7 +8,7 @@
         Education Background
       </h2>
       <h6>
-        SMKS Taruna Bhakti
+        SMKS Taruna Bhakti Depok
         <br>
         2020 - Present
       </h6>
